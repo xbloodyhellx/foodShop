@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.cdnfonts.com/css/iranian-sans");
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Iranian Sans" !important;
+    direction: rtl;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.border-b{
+    border-bottom: 1px solid rgb(213 213 213);
+}

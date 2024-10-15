@@ -1,0 +1,17 @@
+.widget-title {
+    color: #333333;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 1.9rem;
+  }
+  .widget a,
+  p {
+    color: #777;
+  }
+  .font-color{
+    color: #8d8d8d;
+  }
+  .border-t{
+    border-top: 1px solid rgb(214, 214, 214);
+  }
+  
