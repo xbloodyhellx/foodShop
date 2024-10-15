@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodShop/static/css/main.1621d2f3.css",
+    "main.js": "/foodShop/static/js/main.ede68149.js",
+    "static/js/952.752e13e3.chunk.js": "/foodShop/static/js/952.752e13e3.chunk.js",
+    "static/media/reservation-bg.jpg.webp": "/foodShop/static/media/reservation-bg.jpg.1a53bb8c0f44fba84e63.webp",
+    "static/media/hero-bg.jpg": "/foodShop/static/media/hero-bg.5f33661d33dd6c869e7c.jpg",
+    "static/media/Yekan.svg": "/foodShop/static/media/Yekan.6e28e0bda39475075d7b.svg",
+    "static/media/review-bg.jpg.webp": "/foodShop/static/media/review-bg.jpg.23cb6c7ab93568ee1142.webp",
+    "static/media/Yekan.ttf": "/foodShop/static/media/Yekan.f6a0838b6690eaaa2898.ttf",
+    "static/media/Yekan.eot": "/foodShop/static/media/Yekan.9db58f99bcd38a0e67b6.eot",
+    "static/media/Iranian Sans.ttf": "/foodShop/static/media/Iranian Sans.8c2ed8fb0154947263c5.ttf",
+    "static/media/Yekan.woff": "/foodShop/static/media/Yekan.18af8c75ab1951a5e56d.woff",
+    "static/media/Yekan.woff2": "/foodShop/static/media/Yekan.a62bb3c8f209f478a9e5.woff2",
+    "index.html": "/foodShop/index.html",
+    "main.1621d2f3.css.map": "/foodShop/static/css/main.1621d2f3.css.map",
+    "main.ede68149.js.map": "/foodShop/static/js/main.ede68149.js.map",
+    "952.752e13e3.chunk.js.map": "/foodShop/static/js/952.752e13e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1621d2f3.css",
+    "static/js/main.ede68149.js"
+  ]
+}
